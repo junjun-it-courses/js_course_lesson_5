@@ -10,7 +10,7 @@ while (true) {
 
     let value = +prompt("Введите число", '');
 
-    if (!value)  break
+    if (!value) break;
 
     sum = sum + value; // sum += value
 
